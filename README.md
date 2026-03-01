@@ -50,3 +50,15 @@ To get this project up and running on your local machine:
    npm run dev
    ```
 4. **View the App**: Open your browser and navigate to the localhost URL provided by Vite (typically `http://localhost:5173`).
+
+## Git Ignored Folders
+
+This project includes a `.gitignore` file that excludes the following folders:
+
+### `node_modules`
+*   **Why?**: This folder contains all the external libraries (dependencies) required by the project. It is massive and platform-dependent.
+*   **How to get it back?**: Run `npm install`. This regenerates the folder based on your `package.json` and `package-lock.json`.
+
+### `dist`
+*   **Why?**: This is the "distribution" or build folder. It contains the final, minified code generated for production. Tracking it in Git causes unnecessary bloat and merge conflicts.
+*   **How to get it back?**: Run `npm run build`. This takes your source code from the `src` folder and recreates the `dist` folder.
