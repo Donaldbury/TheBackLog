@@ -1,0 +1,78 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "blog": "Blog"
+    },
+    "home": {
+        "title": "The Build Log",
+        "author": "a blog by Donald",
+        "subtitle": "Exploring code, climbing boulders, building warhammer, and playing games.",
+        "cta": "Learn More About Me"
+    },
+    "about": {
+        "title": "About Me",
+        "intro_title": "Senior Software Developer at Babcock International Group",
+        "intro_degree": "BSc (Hons) Computing (2:1) - Plymouth University",
+        "work_experience": "Work Experience",
+        "education": "Education",
+        "hobbies": "Hobbies & Interests",
+        "honors": "Honors & Awards",
+        "babcock": "Babcock International Group",
+        "babcock_senior": "Senior Software Developer",
+        "babcock_dev": "Software Developer",
+        "range": "The Range",
+        "range_dev": "Software Developer",
+        "range_junior": "Junior Developer",
+        "nhs": "Cornwall Partnership NHS Foundation Trust",
+        "nhs_vol": "Software Developer (Voluntary)",
+        "delt": "Delt Shared Services",
+        "delt_ict": "ICT Assistant Support",
+        "plymouth": "Plymouth University",
+        "liskeard_6th": "Liskeard School Sixth Form",
+        "liskeard_sec": "Liskeard School and Community College",
+        "climbing": "Indoor Rock Climbing",
+        "gaming": "Gaming",
+        "gaming_desc": "PC & Steam Deck",
+        "warhammer": "Warhammer",
+        "warhammer_desc": "Building, Painting & Collecting",
+        "deans_list": "Dean's List for the 2012-2013 Academic Year",
+        "deans_date": "August 2013",
+        "deans_desc": "An award in recognition of excellent performance.",
+        "films": "Films & Television",
+        "films_desc": "Sci-fi & Fantasy"
+    },
+    "services": {
+        "title": "Development Services",
+        "subtitle": "Need a project built? See what I can offer below or get in touch.",
+        "web_dev": "Website Creation",
+        "web_dev_desc": "Fast, responsive, and beautiful static sites or CMS-driven websites tailored to your brand.",
+        "app_dev": "Web Applications",
+        "app_dev_desc": "Full-stack scalable web applications using modern frameworks like React and Node.js.",
+        "contact_title": "Start a Conversation",
+        "form_name": "Name",
+        "form_email": "Email",
+        "form_service": "Service Required",
+        "form_service_web": "Website Creation",
+        "form_service_app": "Web Application",
+        "form_service_other": "Other/Consulting",
+        "form_details": "Project Details",
+        "form_submit": "Send Message",
+        "form_success": "Thanks for reaching out! I'll be in touch soon."
+    },
+    "blog": {
+        "list_title": "The Build Log",
+        "back": "← Back to Blog",
+        "published": "Published on"
+    },
+    "footer": {
+        "copyright": "The Build Log. Created by Donald Bury."
+    },
+    "notfound": {
+        "title": "Page Not Found",
+        "message": "Whoops! It looks like you've wandered off the trail.",
+        "joke": "Did you go off-belay? This route doesn't seem to exist!",
+        "back_home": "Back to Safety"
+    }
+}

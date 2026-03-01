@@ -1,0 +1,78 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "about": "À propos",
+        "services": "Conception",
+        "blog": "Blog"
+    },
+    "home": {
+        "title": "Le Journal de Build",
+        "author": "un blog par Donald",
+        "subtitle": "Explorer le code, escalader des blocs, construire du warhammer et jouer à des jeux.",
+        "cta": "En savoir plus sur moi"
+    },
+    "about": {
+        "title": "À propos de moi",
+        "intro_title": "Développeur Logiciel Senior chez Babcock International Group",
+        "intro_degree": "BSc (Hons) Informatique (2:1) - Université de Plymouth",
+        "work_experience": "Expérience Professionnelle",
+        "education": "Éducation",
+        "hobbies": "Loisirs & Intérêts",
+        "honors": "Honneurs & Récompenses",
+        "babcock": "Babcock International Group",
+        "babcock_senior": "Développeur Logiciel Senior",
+        "babcock_dev": "Développeur Logiciel",
+        "range": "The Range",
+        "range_dev": "Développeur Logiciel",
+        "range_junior": "Développeur Junior",
+        "nhs": "Cornwall Partnership NHS Foundation Trust",
+        "nhs_vol": "Développeur Logiciel (Bénévole)",
+        "delt": "Delt Shared Services",
+        "delt_ict": "Assistant Support TIC",
+        "plymouth": "Université de Plymouth",
+        "liskeard_6th": "Liskeard School Sixth Form",
+        "liskeard_sec": "Liskeard School and Community College",
+        "climbing": "Escalade en Salle",
+        "gaming": "Jeux Vidéo",
+        "gaming_desc": "PC & Steam Deck",
+        "warhammer": "Warhammer",
+        "warhammer_desc": "Construction, Peinture & Collection",
+        "films": "Films et Télévision",
+        "films_desc": "Science-fiction et Fantastique",
+        "deans_list": "Palmarès du Doyen de l'année 2012-2013",
+        "deans_date": "Août 2013",
+        "deans_desc": "Un prix en reconnaissance de l'excellence académique."
+    },
+    "services": {
+        "title": "Services de Développement",
+        "subtitle": "Besoin d'un projet construit ? Découvrez ce que je peux offrir ou contactez-moi.",
+        "web_dev": "Création de Sites Web",
+        "web_dev_desc": "Sites web rapides, réactifs et esthétiques, statiques ou propulsés par CMS, adaptés à votre marque.",
+        "app_dev": "Applications Web",
+        "app_dev_desc": "Applications web évolutives full-stack utilisant des frameworks modernes comme React et Node.js.",
+        "contact_title": "Démarrer une Conversation",
+        "form_name": "Nom",
+        "form_email": "E-mail",
+        "form_service": "Service Requis",
+        "form_service_web": "Création de Site Web",
+        "form_service_app": "Application Web",
+        "form_service_other": "Autre/Consulting",
+        "form_details": "Détails du Projet",
+        "form_submit": "Envoyer le Message",
+        "form_success": "Merci pour votre message ! Je vous contacterai bientôt."
+    },
+    "blog": {
+        "list_title": "Le Journal de Build",
+        "back": "← Retour au Blog",
+        "published": "Publié le"
+    },
+    "footer": {
+        "copyright": "Le Journal de Build. Créé par Donald Bury."
+    },
+    "notfound": {
+        "title": "Page non trouvée",
+        "message": "Oups ! On dirait que vous vous êtes égaré en chemin.",
+        "joke": "Êtes-vous parti sans assurance ? Cette voie ne semble pas exister !",
+        "back_home": "Retour à la sécurité"
+    }
+}

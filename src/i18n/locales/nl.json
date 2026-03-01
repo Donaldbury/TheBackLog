@@ -1,0 +1,78 @@
+{
+    "nav": {
+        "home": "Startpagina",
+        "about": "Over mij",
+        "services": "Diensten",
+        "blog": "Blog"
+    },
+    "home": {
+        "title": "Het Build Logboek",
+        "author": "een blog door Donald",
+        "subtitle": "Code verkennen, boulderen, warhammer bouwen en gamen.",
+        "cta": "Lees Meer Over Mij"
+    },
+    "about": {
+        "title": "Over Mij",
+        "intro_title": "Senior Software Ontwikkelaar bij Babcock International Group",
+        "intro_degree": "BSc (Hons) Informatica (2:1) - Plymouth University",
+        "work_experience": "Werkervaring",
+        "education": "Opleiding",
+        "hobbies": "Hobby's & Interesses",
+        "honors": "Eer & Prijzen",
+        "babcock": "Babcock International Group",
+        "babcock_senior": "Senior Software Ontwikkelaar",
+        "babcock_dev": "Software Ontwikkelaar",
+        "range": "The Range",
+        "range_dev": "Software Ontwikkelaar",
+        "range_junior": "Junior Ontwikkelaar",
+        "nhs": "Cornwall Partnership NHS Foundation Trust",
+        "nhs_vol": "Software Ontwikkelaar (Vrijwillig)",
+        "delt": "Delt Shared Services",
+        "delt_ict": "ICT Assistent Support",
+        "plymouth": "Plymouth University",
+        "liskeard_6th": "Liskeard School Sixth Form",
+        "liskeard_sec": "Liskeard School and Community College",
+        "climbing": "Indoor Klimmen",
+        "gaming": "Gamen",
+        "gaming_desc": "PC & Steam Deck",
+        "warhammer": "Warhammer",
+        "warhammer_desc": "Bouwen, Schilderen & Verzamelen",
+        "deans_list": "Dean's List voor het academiejaar 2012-2013",
+        "deans_date": "Augustus 2013",
+        "deans_desc": "Een prijs ter erkenning van uitstekende prestaties.",
+        "films": "Film & Televisie",
+        "films_desc": "Sci-fi & Fantasy"
+    },
+    "services": {
+        "title": "Ontwikkelingsdiensten",
+        "subtitle": "Heeft u een project nodig? Bekijk hieronder wat ik kan bieden of neem contact op.",
+        "web_dev": "Website Creatie",
+        "web_dev_desc": "Snelle, responsieve en mooie statische of CMS-gedreven websites op maat van uw merk.",
+        "app_dev": "Webapplicaties",
+        "app_dev_desc": "Schaalbare full-stack webapplicaties met moderne frameworks zoals React en Node.js.",
+        "contact_title": "Start een Gesprek",
+        "form_name": "Naam",
+        "form_email": "E-mail",
+        "form_service": "Gewenste Dienst",
+        "form_service_web": "Website Creatie",
+        "form_service_app": "Webapplicatie",
+        "form_service_other": "Overig/Consultancy",
+        "form_details": "Projectdetails",
+        "form_submit": "Verstuur Bericht",
+        "form_success": "Bedankt voor uw bericht! Ik neem snel contact op."
+    },
+    "blog": {
+        "list_title": "Het Build Logboek",
+        "back": "← Terug naar Blog",
+        "published": "Gepubliceerd op"
+    },
+    "footer": {
+        "copyright": "Het Build Logboek. Gemaakt door Donald Bury."
+    },
+    "notfound": {
+        "title": "Pagina niet gevonden",
+        "message": "Oeps! Het lijkt erop dat je van het pad bent geraakt.",
+        "joke": "Ging je off-belay? Deze route lijkt niet te bestaan!",
+        "back_home": "Terug naar veiligheid"
+    }
+}

@@ -1,0 +1,9 @@
+/* Global App Container Styles */
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Add any new global App-level styles here */

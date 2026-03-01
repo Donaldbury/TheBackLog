@@ -1,0 +1,78 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "about": "Über mich",
+        "services": "Dienste",
+        "blog": "Blog"
+    },
+    "home": {
+        "title": "Das Build-Protokoll",
+        "author": "ein Blog von Donald",
+        "subtitle": "Code erforschen, bouldern, Warhammer bauen und spielen.",
+        "cta": "Erfahre mehr über mich"
+    },
+    "about": {
+        "title": "Über mich",
+        "intro_title": "Senior Softwareentwickler bei der Babcock International Group",
+        "intro_degree": "BSc (Hons) Informatik (2:1) - Universität Plymouth",
+        "work_experience": "Berufserfahrung",
+        "education": "Bildung",
+        "hobbies": "Hobbys & Interessen",
+        "honors": "Ehrungen & Auszeichnungen",
+        "babcock": "Babcock International Group",
+        "babcock_senior": "Senior Softwareentwickler",
+        "babcock_dev": "Softwareentwickler",
+        "range": "The Range",
+        "range_dev": "Softwareentwickler",
+        "range_junior": "Junior Entwickler",
+        "nhs": "Cornwall Partnership NHS Foundation Trust",
+        "nhs_vol": "Softwareentwickler (Freiwillig)",
+        "delt": "Delt Shared Services",
+        "delt_ict": "IKT-Assistenzunterstützung",
+        "plymouth": "Universität Plymouth",
+        "liskeard_6th": "Liskeard School Oberstufe",
+        "liskeard_sec": "Liskeard School und Community College",
+        "climbing": "Indoor-Klettern",
+        "gaming": "Zocken",
+        "gaming_desc": "PC & Steam Deck",
+        "warhammer": "Warhammer",
+        "warhammer_desc": "Bauen, Bemalen & Sammeln",
+        "deans_list": "Dekansliste für das Studienjahr 2012-2013",
+        "deans_date": "August 2013",
+        "deans_desc": "Eine Auszeichnung in Anerkennung hervorragender Leistungen.",
+        "films": "Filme & Fernsehen",
+        "films_desc": "Science-Fiction & Fantasy"
+    },
+    "services": {
+        "title": "Entwicklungsdienste",
+        "subtitle": "Brauchen Sie ein Projekt? Sehen Sie unten, was ich anbieten kann, oder melden Sie sich.",
+        "web_dev": "Erstellung von Websites",
+        "web_dev_desc": "Schnelle, reaktionsschnelle und schöne statische oder CMS-gesteuerte Websites.",
+        "app_dev": "Webanwendungen",
+        "app_dev_desc": "Skalierbare Full-Stack-Webanwendungen mit modernen Frameworks wie React und Node.js.",
+        "contact_title": "Ein Gespräch beginnen",
+        "form_name": "Name",
+        "form_email": "E-Mail",
+        "form_service": "Gewünschter Service",
+        "form_service_web": "Website-Erstellung",
+        "form_service_app": "Webanwendung",
+        "form_service_other": "Sonstiges/Beratung",
+        "form_details": "Projektdetails",
+        "form_submit": "Nachricht senden",
+        "form_success": "Danke für die Kontaktaufnahme! Ich melde mich bald."
+    },
+    "blog": {
+        "list_title": "Das Build-Protokoll",
+        "back": "← Zurück zum Blog",
+        "published": "Veröffentlicht am"
+    },
+    "footer": {
+        "copyright": "Das Build-Protokoll. Erstellt von Donald Bury."
+    },
+    "notfound": {
+        "title": "Seite nicht gefunden",
+        "message": "Hoppla! Es sieht so aus, als hättest du dich verlaufen.",
+        "joke": "Bist du ohne Sicherung losgegangen? Diese Route scheint nicht zu existieren!",
+        "back_home": "Zurück zur Sicherheit"
+    }
+}
